@@ -1,1 +1,1 @@
-# pulumi-vpc-peering
+# ts-vpc-peering
